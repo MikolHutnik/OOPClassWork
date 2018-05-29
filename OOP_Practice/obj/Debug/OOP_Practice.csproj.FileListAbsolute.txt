@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\OOP_Practice\OOP_Practice\bin\Debug\OOP_Practice.exe.config
+C:\Users\WeCanCodeIT\source\repos\OOP_Practice\OOP_Practice\bin\Debug\OOP_Practice.exe
+C:\Users\WeCanCodeIT\source\repos\OOP_Practice\OOP_Practice\bin\Debug\OOP_Practice.pdb
+C:\Users\WeCanCodeIT\source\repos\OOP_Practice\OOP_Practice\obj\Debug\OOP_Practice.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\OOP_Practice\OOP_Practice\obj\Debug\OOP_Practice.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\OOP_Practice\OOP_Practice\obj\Debug\OOP_Practice.exe
+C:\Users\WeCanCodeIT\source\repos\OOP_Practice\OOP_Practice\obj\Debug\OOP_Practice.pdb
